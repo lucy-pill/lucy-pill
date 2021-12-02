@@ -9,4 +9,4 @@ ohter UTM - vender Palo Alto, SECUI, Sophos.
 and WAF - WAPPLES, AIWAF, DEEPFINDER.  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=plastic&logo=VisualStudioCode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white)
