@@ -9,7 +9,7 @@ I'm operating FortiGate FortiAnalyzer FortiAP as a Fortinet Partner Engineer.
 UTM - Palo Alto, SECUI, Sophos.  
 WAF - WAPPLES, AIWAF, DEEPFINDER.  
   
-Beyond, I wanna be a front-end programmer.
+Beyond, I wanna be a front-end engineer.
   
 ### :books: Things I code with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
